@@ -1,2 +1,2 @@
-# team3
-merrit college security hackathon
+# Team 3
+Merritt College Cybersecurity Hackathon
